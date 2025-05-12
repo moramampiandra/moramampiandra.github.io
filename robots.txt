@@ -1,0 +1,6 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/>User-agent: *
+Disallow: /private/
+Disallow: /temp/
+Allow: /
+
+Sitemap: https://moramampiandra.github.io/sitemap.xml
